@@ -5,3 +5,4 @@ yield array [count]
 count ++
 end
 return array
+end
